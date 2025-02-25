@@ -61,10 +61,10 @@ Commit suas alterações (git commit -m 'Adicionando nova feature')
 Faça um push no branch (git push origin minha-feature)
 Abra um Pull Request
 
-📩 Contato
-📧 Email: rafaguiar2005@gmail.com
-🔗 LinkedIn: linkedin.com/in/rafael-felipe-tec
-🐙 GitHub: github.com/rafaelfelipeaguiar
+**📩 Contato**
+- 📧 Email: rafaguiar2005@gmail.com
+- 🔗 LinkedIn: linkedin.com/in/rafael-felipe-tec
+- 🐙 GitHub: github.com/rafaelfelipeaguiar
 
 📝 Licença
 Este projeto está sob a licença MIT. Você pode usá-lo e modificá-lo como desejar. 😉
