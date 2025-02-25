@@ -54,36 +54,6 @@ yarn dev
 
 📌 O projeto rodará em: http://localhost
 
-
-**📂 Estrutura do Projeto**
-
-src/
-├── assets/
-│   ├── image/
-│   │   ├── logo.png
-├── components/
-│   ├── navbar/
-│   │   ├── Navbar.jsx
-│   │   ├── style.css
-│   ├── footer/
-│   │   ├── Footer.jsx
-│   │   ├── style.css
-├── views/
-│   ├── home/
-│   │   ├── Home.jsx
-│   │   ├── home.css
-│   ├── sobre/
-│   │   ├── Sobre.jsx
-│   │   ├── sobre.css
-│   ├── projetos/
-│   │   ├── Projetos.jsx
-│   │   ├── projetos.css
-├── App.jsx
-├── main.jsx
-├── styles/
-│   ├── global.css
-├── README.md
-
 **🤝 Como Contribuir**
 Fork este repositório
 Crie um branch (git checkout -b minha-feature)
